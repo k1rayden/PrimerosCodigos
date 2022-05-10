@@ -17,6 +17,8 @@ print (residuoNumeroImpar)
 
 #potenciacion
 
+
+
 resultadoPotenciacion = 8 ** 2
 print (resultadoPotenciacion)
 
